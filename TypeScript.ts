@@ -74,7 +74,6 @@ const user: User = {
     age: 25,
     interests: ["coding", "gaming", "reading"],
   },
-  lastLogin: new Date("2024-11-14T12:34:56Z"),
   settings: {
     theme: "dark",
     notifications: {
