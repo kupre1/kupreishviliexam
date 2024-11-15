@@ -38,12 +38,12 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="min-w-[419px]  flex flex-col justify-between ">
+      <div className="min-w-[419px]  flex flex-col justify-between gap-2">
         <div className="text-[#999999] flex items-center gap-[4px] ">
           <Image src={Icon2} width={24} height={24} alt="icon" />
           <p className="text-[18px] font-medium leading-7">Ratings</p>
         </div>
-        <div className="min-w-[419px]  flex justify-between gap-[4px]">
+        <div className="min-w-[419px]  flex justify-between gap-[10px]">
           <div className="w-[200px] h-[96px] bg-black border border-gray-800 py-4 pl-4 rounded-md ">
             <p className="text-[20px] font-semibold text-white  ">IMDb</p>
             <p>
